@@ -12,3 +12,7 @@ Visual Studioの設定で、Pythonの場所を指定する。
 
 
 
+
+https://user-images.githubusercontent.com/8924325/142749130-4eb8cd38-acf9-4604-974c-e1355c19f4b4.mp4
+
+
